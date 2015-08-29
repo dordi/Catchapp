@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/activities/FallActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/activities/FallDetector.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/activities/FallHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/activities/GraphView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/activities/LocationUpdateHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/fragments/FallActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/fragments/FallDetector.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/fragments/FallHandler.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/fragments/GraphView.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/materialtest/vivz/AreYouHealthy/fragments/LocationUpdateHandler.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
